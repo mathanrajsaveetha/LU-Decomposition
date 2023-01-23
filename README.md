@@ -30,6 +30,7 @@ print(U)
 ```
 
 ## Output:
+
 ![output](Decomposition.png)
 
 
