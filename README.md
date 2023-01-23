@@ -30,7 +30,7 @@ print(U)
 ```
 
 ## Output:
-![OUTPUT](D.png)
+![output](D.png)
 
 
 ## Result:
